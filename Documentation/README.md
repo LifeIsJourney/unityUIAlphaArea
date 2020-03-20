@@ -6,7 +6,7 @@
 ## How to use Asset?
 1.먼저 해당 Asset을 프로젝트에 내려받습니다.
 
-![ex1](image/i1.png)  
+![ex1](Documentation/Image/i1.png)  
 2.사용할 UI 이미지를 준비합니다.  
 ![ex1](image/i2.png)    
 3.해당 이미지의 Advanced에서 읽기/쓰기를 체크합니다.  
