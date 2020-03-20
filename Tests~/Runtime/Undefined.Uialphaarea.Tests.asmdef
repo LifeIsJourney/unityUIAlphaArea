@@ -1,0 +1,11 @@
+{
+    "name": "Undefined.Uialphaarea.Tests",
+    "references": [
+        "Undefined.Uialphaarea"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

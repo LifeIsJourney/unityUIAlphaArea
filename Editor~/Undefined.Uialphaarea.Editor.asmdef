@@ -1,0 +1,10 @@
+{
+    "name": "Undefined.Uialphaarea.Editor",
+    "references": [
+      "Undefined.Uialphaarea"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

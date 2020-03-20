@@ -1,0 +1,14 @@
+{
+    "name": "Undefined.Uialphaarea.Editor.Tests",
+    "references": [
+        "Undefined.Uialphaarea.Editor",
+        "Undefined.Uialphaarea"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
