@@ -2,6 +2,8 @@
 
 해당 Asset의 기능 :  
 유니티에서는 기본적으로 마름모꼴과 같은 UI를 사용하게 되면 투명한 곳 까지 클릭 영역으로 인식 되는 문제가 발생합니다.  
+
+![ex](https://github.com/bnm000215/unityUIAlphaArea/blob/master/Documentation~/Image/i0.png)  
 그래서 'AlphaArea'를 사용하게되면 Alpha의 허용 정도를 정하여 알파 영역은 클릭되지 않도록 해주는 Asset입니다.
 
 ## How to use Asset?
