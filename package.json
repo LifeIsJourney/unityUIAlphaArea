@@ -4,12 +4,5 @@
   "version": "1.0.6",
   "unity": "2018.1",
   "description": "If you use this asset, you can configure the alpha area to be unrecognized when you configure the button UI.",
-  "type": "library",
-  "samples": [
-    {
-      "displayName": "Example",
-      "description": "This is an example file using Alpha Area",
-      "path": "Samples~/Example"
-    }
-  ]
+  "type": "library"
 }
